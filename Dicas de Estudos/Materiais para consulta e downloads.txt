@@ -1,0 +1,10 @@
+Materiais para consulta e download
+
+1. Controlando versões com Git e GitHub - Casa do Codigo. Disponível em: https://www.academia.edu/42653380/Controlando_verso_es_com_Git_e_GitHub_Casa_do_Codigo
+
+2. Tutorial Git - Universidade Federal de Santa Maria. Disponível em: http://coral.ufsm.br/pet-si/wp-content/uploads/2017/02/Consult%C3%B3rio-de-Software-Git.pdf 
+
+3. Começando os Estudos com Git e GitHub - Rocketseat. Disponível em: https://docero.com.br/doc/e0v005e
+
+4. Git book - Scott Chacon and Ben Straub. Disponível em: https://git-scm.com/book/pt-br/v2
+
